@@ -1,0 +1,37 @@
+* {
+    background-color:burlywood;
+    /* outline: 2px solid red; */
+}
+
+li {
+    color: darkblue;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    width: 250px;
+}
+
+a {
+    color: black;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: darkblue;
+    text-decoration: underline;
+    padding-bottom: 45px;
+    width: 250px;
+}
+
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h5 {
+    font-size: 20px;
+    font-style: italic;
+    margin-bottom: 8px;
+    margin-top: 45px;
+    width: 150px;
+}
+
